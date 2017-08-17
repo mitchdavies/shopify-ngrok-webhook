@@ -1,0 +1,17 @@
+{
+  "name": "Shopify & ngrok Webhook",
+  "version": "1.0.0",
+  "description": "example webhook using shopify and ngrok for local testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mitchell Davies",
+  "license": "ISC",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "http": "0.0.0",
+    "ngrok": "^2.2.17",
+    "server": "^1.0.0-beta.1"
+  }
+}
